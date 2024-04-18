@@ -1,0 +1,3 @@
+This directory provides the code for a model that estimates the energy consumed in geophones based on packet transmission and reception in our proposed network architecture.
+The model is an extension of the IEEE 802.11 DCF based MAC modeling, mainly utilized in determining the duration of packet transmission and reception. 
+This is then employed to compute the energy consumed for each packet Tx or Rx based on the hardware radio power consumption specifications.
